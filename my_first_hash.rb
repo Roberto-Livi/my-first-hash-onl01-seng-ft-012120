@@ -1,6 +1,6 @@
 def my_hash
- lifetime_fitness = ["Part Time" => "$120", "Full Time" => "$200"]
- puts lifetime_fitness
+ your_hash = ["Part Time" => "$120", "Full Time" => "$200"]
+ your_hash
 end
 
 my_hash
