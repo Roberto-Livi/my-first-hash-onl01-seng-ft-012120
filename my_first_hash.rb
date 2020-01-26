@@ -1,6 +1,6 @@
 def my_hash
- hash = ["Part Time" => "$120", "Full Time" => "$200"]
- hash
+ my_hash = ["Part Time" => "$120", "Full Time" => "$200"]
+ my_hash
 end
 
 my_hash
