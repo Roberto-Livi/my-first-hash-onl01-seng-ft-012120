@@ -1,9 +1,10 @@
-your_hash = ["Part Time" => "$120", "Full Time" => "$200"]
-def my_hash(hash)
- hash
+
+def my_hash
+  your_hash = {"Part Time" => "$120", "Full Time" => "$200"}
+  your_hash
 end
 
-my_hash(your_hash)
+
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
