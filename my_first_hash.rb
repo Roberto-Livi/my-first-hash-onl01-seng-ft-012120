@@ -1,4 +1,3 @@
-
 def my_hash
   your_hash = {"Part Time" => "$120", "Full Time" => "$200"}
 end
